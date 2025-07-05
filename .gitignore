@@ -1,0 +1,3 @@
+#忽略sourcedata中的两个大文件
+sourcedata/creditcard.csv
+sourcedata/mnist_train.csv

@@ -1,3 +1,6 @@
 #忽略sourcedata中的两个大文件
 sourcedata/creditcard.csv
 sourcedata/mnist_train.csv
+
+#忽略ssh连接产生的代理空文件
+127.0.0.1
